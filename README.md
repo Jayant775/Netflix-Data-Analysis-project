@@ -6,7 +6,7 @@ The goal of this project is to practice data analysis, data visualization, and d
 
 ## Dashboard Preview
 
-![Netflix Dashboard](DASHBOARD3.png)
+![Netflix Dashboard](DAShBOARD3.png)
 
 ## Key Metrics
 
