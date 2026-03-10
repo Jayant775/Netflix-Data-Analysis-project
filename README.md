@@ -95,24 +95,11 @@ The purpose of this project is to demonstrate:
 
 It showcases how raw entertainment data can be transformed into an interactive analytical dashboard.
 
-``` Repository Structure
-Netflix-Content-Dashboard
-│
-├── dataset
-│   └── netflix_titles.csv
-│
-├── dashboard
-│   └── Netflix_Dashboard.pbix
-│
-├── images
-│   └── dashboard_preview.png
-│
-└── README.md
-Author
+
+THE WHY-
 
 This project is part of my journey of building a data analytics portfolio and improving my skills in data visualization and storytelling with Power BI.
 
-If you want, I can also show you one small trick that makes a GitHub data project look much more professional to recruiters (almost every strong data analyst repo uses it).
 
 
 
