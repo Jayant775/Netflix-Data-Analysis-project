@@ -4,7 +4,9 @@ This project analyzes the Netflix content catalog to understand trends in movies
 
 The goal of this project is to practice data analysis, data visualization, and dashboard design using Power BI while extracting meaningful insights from real-world entertainment data.
 
-Dashboard Preview
+## Dashboard Preview
+
+![Netflix Dashboard](DASHBOARD3.png)
 
 ## Key Metrics
 
